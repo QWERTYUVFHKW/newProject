@@ -2,3 +2,8 @@ div {
     display: inline;
     background-color: aqua;
 }
+
+section {
+    background-color: rgb(180, 175, 184);
+    width:fit-content;
+}
